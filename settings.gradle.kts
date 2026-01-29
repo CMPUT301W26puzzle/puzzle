@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "CMPUT301-lab-04"
 include(":app")
+ 
