@@ -12,6 +12,8 @@
 - **CCID:** `kurbanov`
 - **Full Name:** `Mehrshad Taleb Zadeh`
 - **CCID:** `talebzad`
+- **Full Name:** `Aaron Lottin`
+- **CCID:** `alottin`
 
 ## References and Resources
 
