@@ -10,6 +10,8 @@
 - **CCID:** `farand`
 - **Full Name:** `Ruslan Kurbanov`
 - **CCID:** `kurbanov`
+- - **Full Name:** `Mehrshad Taleb Zadeh`
+- **CCID:** `talebzad`
 
 ## References and Resources
 
