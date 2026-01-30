@@ -8,6 +8,8 @@
 - **CCID:** `jjma4`
 - **Full Name:** `Hayden Farand`
 - **CCID:** `farand`
+- **Full Name:** `Ruslan Kurbanov`
+- **CCID:** `kurbanov`
 
 ## References and Resources
 
