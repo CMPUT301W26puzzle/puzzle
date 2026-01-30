@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `e`
-- **CCID:** `e`
+- **Full Name:** `Han Zheng`
+- **CCID:** `hzheng14`
 
 ## References and Resources
 
